@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.r60quYNK.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"2_articles/0_start.md","filePath":"2_articles/0_start.md"}'),r={name:"2_articles/0_start.md"};function s(_,c,o,n,i,p){return a(),e("div")}const m=t(r,[["render",s]]);export{l as __pageData,m as default};
